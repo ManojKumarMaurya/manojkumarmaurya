@@ -3,66 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Manoj Kumar Maurya | Senior DevOps Engineer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f9;
-      color: #333;
-    }
-    header {
-      background: #24292e;
-      color: #fff;
-      padding: 30px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
-    header p {
-      margin: 5px 0;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 12px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      max-width: 950px;
-      margin: 40px auto;
-      padding: 25px;
-      background: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    }
-    h2 {
-      border-bottom: 2px solid #24292e;
-      padding-bottom: 8px;
-    }
-    ul {
-      line-height: 1.8;
-    }
-    .projects a {
-      display: block;
-      margin: 6px 0;
-      color: #0366d6;
-      text-decoration: none;
-    }
-    footer {
-      text-align: center;
-      padding: 20px;
-      margin-top: 40px;
-      background: #24292e;
-      color: #fff;
-    }
-  </style>
-</head>
-<body>
-  <header>
+</header>
     <h1>Manoj Kumar Maurya</h1>
     <p>Senior DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Automation</p>
     <nav>
